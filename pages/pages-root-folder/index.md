@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Our Mission & Vision"
+  title: "Mission & Vision"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: '利用神经工程技术，借助于动物人体实验和模型仿真，研究神经系统疾病的损伤机理、治疗、康复及其硬件设备。'
